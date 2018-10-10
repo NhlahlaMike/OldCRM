@@ -1,0 +1,21 @@
+body {
+	width:100%;
+    background-image: url("5.jpg"), url("3.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0%, 0;
+    -moz-animation: swim 2s linear 0s infinite;
+    -webkit-animation: swim 2s linear 0s infinite;
+    animation: swim 6s linear 0s infinite;
+}
+@-moz-keyframes swim {
+    from { background-position: 200% 0, 0 0; }
+    to  { background-position: -100% 0, 0 0; }
+}
+@-webkit-keyframes swim {
+    from { background-position: 200% 0, 0 0; }
+    to  { background-position: -100% 0, 0 0; }
+}
+@keyframes swim {
+    from { background-position: 200% 0, 0 0; }
+    to  { background-position: -100% 0, 0 0; }
+}

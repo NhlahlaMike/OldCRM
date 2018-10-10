@@ -1,0 +1,38 @@
+  <?php
+  header("Content-type:application/json");
+require "Config.php";
+//remember to add where salesid equals to the logged in sales rep
+$salesID = $_POST["user"];
+
+$sql="select distinct(s.S_Name), s.salesid, c.custid, c.name, c.surname, c.phone, c.email, l.product, i.I_Status, datename(mm,l.Date_Created) as Date
+from Sales_Rep s, Customer c, Lead l, Invoice i, Product p, AssignTask a
+where a.SalesID = s.SalesID
+AND c.CustID = l.CustID
+AND l.Prod_ID = p.Prod_ID
+AND l.LeadID = i.Lead_ID
+AND datename(mm, a.stMonth) = datename(mm, l.Date_Created)
+AND i.I_Status = 'Not yet paid'
+AND a.SalesID = '$salesID'
+AND datename(MM, a.stMonth) = 'January'";
+$response=array();
+      
+        
+        $stmt1 = sqlsrv_query($conn, $sql);
+//$stmt = sqlsrv_query($conn, $sql);
+   
+         
+            while($row = sqlsrv_fetch_array($stmt1, SQLSRV_FETCH_ASSOC))
+			{
+			//echo fixrn($row['Surname']);
+			//echo '<br>';
+						array_push($response,array("C_ID"=>fixrn($row['CustID']),"C_Name"=>fixrn($row['Name']), "C_Surname"=>fixrn($row['Surname']), "C_Email"=>fixrn($row['Email']), "C_Phone"=>fixrn($row['Phone']), "C_Company"=>fixrn($row['Company']), "C_Designation"=>fixrn($row['Designation']), "C_Address"=>fixrn($row['Address']), "C_City"=>fixrn($row['City']), "C_Province"=>fixrn($row['Province']), "C_Country"=>fixrn($row['Country']),"C_Comment"=>fixrn($row['Comment'])));
+
+		//	echo $row['Surname'];
+			//echo fixrn($row['Surname']);
+		//	echo '<br>';
+			}
+			
+  
+          echo json_encode(array("server_response"=>$response));
+		  http_response_code (200);
+		  ?>

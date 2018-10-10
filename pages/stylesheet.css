@@ -1,0 +1,8 @@
+form { width: 400px; }
+label { float: left; width: 150px; }
+input[type=text] { float: right; width: 250px; }
+input[type=email] { float: right; width: 250px; }
+select { float: left; width: 100px; }
+textarea { float: left; width: 450px; }
+.clear { clear: both; height: 0; line-height: 0; }
+.floatright { float: right; }

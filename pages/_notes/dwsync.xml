@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="stylesheet.css" server="C:/xampp/htdocs/pages/" local="131608207374247958" remote="131608207370000000" Dst="0" />
+<file name="Config.php" server="C:/xampp/htdocs/pages/" local="131636941974144168" remote="131636941970000000" Dst="0" />
+<file name="session.php" server="C:/xampp/htdocs/pages/" local="131618629025811409" remote="131618629020000000" Dst="0" />
+<file name="Reg_Page.php" server="C:/xampp/htdocs/pages/" local="131637647943512240" remote="131637647940000000" Dst="0" />
+<file name="table.css" server="C:/xampp/htdocs/pages/" local="131636773296992654" remote="131636773290000000" Dst="0" />
+<file name="email_send.php" server="C:/xampp/htdocs/pages/" local="131638467471597406" remote="131638467470000000" Dst="0" />
+<file name="jquery.redirect.js" server="C:/xampp/htdocs/pages/" local="131514469140000000" remote="131514469140000000" Dst="0" />
+<file name="invoice.php" server="C:/xampp/htdocs/pages/" local="131635083894030747" remote="131635083890000000" Dst="0" />
+<file name="soft_delete.php" server="C:/xampp/htdocs/pages/" local="131623042651867745" remote="131623042650000000" Dst="0" />
+<file name="leadProd.php" server="C:/xampp/htdocs/pages/" local="131638414651542364" remote="131638414650000000" Dst="0" />
+<file name="view_cusFull.php" server="C:/xampp/htdocs/pages/" local="131637646040129734" remote="131637646040000000" Dst="0" />
+<file name="test.php" server="C:/xampp/htdocs/pages/" local="131625532662313478" remote="131625532660000000" Dst="0" />
+<file name="index.php" server="C:/xampp/htdocs/pages/" local="131638611854490313" remote="131638611850000000" Dst="0" />
+<file name="Sales.php" server="C:/xampp/htdocs/pages/" local="131637749834308579" remote="131637749830000000" Dst="0" />
+<file name="stylex.css" server="C:/xampp/htdocs/pages/" local="131636066743168300" remote="131636066740000000" Dst="0" />
+<file name="tick.jpg" server="C:/xampp/htdocs/pages/" local="131608213819176587" remote="131608213810000000" Dst="0" />
+<file name="Success.HTML" server="C:/xampp/htdocs/pages/" local="131608390613236777" remote="131608390610000000" Dst="0" />
+<file name="bgimage.jpg" server="C:/xampp/htdocs/pages/" local="131635949941811946" remote="131635949940000000" Dst="0" />
+<file name="chart.php" server="C:/xampp/htdocs/pages/" local="131636692692270725" remote="131636692690000000" Dst="0" />
+<file name="accVal.php" server="C:/xampp/htdocs/pages/" local="131611820582739233" remote="131611820580000000" Dst="0" />
+<file name="leadsview.php" server="C:/xampp/htdocs/pages/" local="131632632999435355" remote="131632632990000000" Dst="0" />
+<file name="index (2).php" server="C:/xampp/htdocs/pages/" local="131637656659179514" remote="131637656650000000" Dst="0" />
+<file name="getDatafromleads.php" server="C:/xampp/htdocs/pages/" local="131636071738720646" remote="131636071730000000" Dst="0" />
+<file name="getdataleads.php" server="C:/xampp/htdocs/pages/" local="131637553199280071" remote="131637553190000000" Dst="0" />
+<file name="AddProd.php" server="C:/xampp/htdocs/pages/" local="131638458011349434" remote="131638458010000000" Dst="0" />
+<file name="AddSalesMember.php" server="C:/xampp/htdocs/pages/" local="131638471408231296" remote="131638471400000000" Dst="0" />
+<file name="SaleManagerHome.php" server="C:/xampp/htdocs/pages/" local="131637748810000000" remote="131637748810000000" Dst="0" />
+<file name="DeleteSalesMember.php" server="C:/xampp/htdocs/pages/" local="131637631544072476" remote="131637631540000000" Dst="0" />
+<file name="AdminMenu.php" server="C:/xampp/htdocs/pages/" local="131637640771313547" remote="131637640770000000" Dst="0" />
+<file name="CustomerSupportSendMail.php" server="C:/xampp/htdocs/pages/" local="131632617552352268" remote="131632617550000000" Dst="0" />
+<file name="style.css" server="C:/xampp/htdocs/pages/" local="131608211253519840" remote="131608211250000000" Dst="0" />
+<file name="excel.php" server="C:/xampp/htdocs/pages/" local="131636949269999469" remote="131636949260000000" Dst="0" />
+<file name="CaseProgress.php" server="C:/xampp/htdocs/pages/" local="131638454567939980" remote="131638454560000000" Dst="0" />
+<file name="CaseProgressBar.php" server="C:/xampp/htdocs/pages/" local="131638454017368518" remote="131638454010000000" Dst="0" />
+<file name="PhpCaseReport.php" server="C:/xampp/htdocs/pages/" local="131637563562102492" remote="131637563560000000" Dst="0" />
+<file name="payment_redirect.php" server="C:/xampp/htdocs/pages/" local="131636843259384274" remote="131636843250000000" Dst="0" />
+<file name="getref.php" server="C:/xampp/htdocs/pages/" local="131636843511998723" remote="131636843510000000" Dst="0" />
+<file name="payment.php" server="C:/xampp/htdocs/pages/" local="131636809262699775" remote="131636809260000000" Dst="0" />
+<file name="tes.php" server="C:/xampp/htdocs/pages/" local="131636791469712074" remote="131636791460000000" Dst="0" />
+<file name="getData.php" server="C:/xampp/htdocs/pages/" local="131637609158402327" remote="131637609150000000" Dst="0" />
+<file name="TeamLeaderHome.php" server="C:/xampp/htdocs/pages/" local="131638463804361522" remote="131638463800000000" Dst="0" />
+<file name="calender.html" server="C:/xampp/htdocs/pages/" local="131637629247372908" remote="131637629240000000" Dst="0" />
+<file name="sessNosale.php" server="C:/xampp/htdocs/pages/" local="131637756393479139" remote="131637756390000000" Dst="0" />
+<file name="logout.php" server="C:/xampp/htdocs/pages/" local="131637728567744240" remote="131637728560000000" Dst="0" />
+<file name="Fotolia_62796305_M.jpg" server="C:/xampp/htdocs/pages/" local="131637776849642663" remote="131637776840000000" Dst="0" />
+<file name="style (2).css" server="C:/xampp/htdocs/pages/" local="131635825454823167" remote="131635825450000000" Dst="0" />
+<file name="dashboard.css" server="C:/xampp/htdocs/pages/" local="131641013062506448" remote="131641013060000000" Dst="0" />
+<file name="20160423_180456.jpg" server="C:/xampp/htdocs/crm/" local="131650742820000000" remote="131650742820000000" Dst="0" />
+<file name="20160131_110421_Richtone(HDR).jpg" server="C:/xampp/htdocs/crm/" local="131650741720000000" remote="131650741720000000" Dst="0" />
+<file name="Config.php" server="C:/xampp/htdocs/crm/" local="131775842431780322" remote="131775842430000000" Dst="0" />
+<file name="table.css" server="C:/xampp/htdocs/crm/" local="131636773300000000" remote="131636773300000000" Dst="0" />
+<file name="Config (10).php" server="C:/xampp/htdocs/crm/" local="131654061740000000" remote="131654061740000000" Dst="0" />
+<file name="config_moveDB.php" server="C:/xampp/htdocs/crm/" local="131613425080000000" remote="131613425080000000" Dst="0" />
+<file name="config (9).php" server="C:/xampp/htdocs/crm/" local="131637741340000000" remote="131637741340000000" Dst="0" />
+<file name="config (8).php" server="C:/xampp/htdocs/crm/" local="131635825460000000" remote="131635825460000000" Dst="0" />
+<file name="stylesheet.css" server="C:/xampp/htdocs/crm/" local="131674970408206720" remote="131674970400000000" Dst="0" />
+<file name="session.php" server="C:/xampp/htdocs/crm/" local="131618629040000000" remote="131618629040000000" Dst="0" />
+<file name="Reg_Page.php" server="C:/xampp/htdocs/crm/" local="131780234927996838" remote="131780234920000000" Dst="0" />
+<file name="20160423_180456.jpg" server="C:/xampp/htdocs/OldCRM/" local="131650742820000000" remote="131650742820000000" Dst="0" />
+<file name="20160131_110421_Richtone(HDR).jpg" server="C:/xampp/htdocs/OldCRM/" local="131650741720000000" remote="131650741720000000" Dst="0" />
+<file name="sessNosale.php" server="C:/xampp/htdocs/OldCRM/" local="131637756400000000" remote="131637756400000000" Dst="0" />
+<file name="AddSalesMember (2).php" server="C:/xampp/htdocs/OldCRM/" local="131666317600000000" remote="131666317600000000" Dst="0" />
+<file name="AddSalesMember.php" server="C:/xampp/htdocs/OldCRM/" local="131666317600000000" remote="131666317600000000" Dst="0" />
+<file name="AddProd.php" server="C:/xampp/htdocs/OldCRM/" local="131659405520000000" remote="131659405520000000" Dst="0" />
+<file name="AddProd (2).php" server="C:/xampp/htdocs/OldCRM/" local="131659405520000000" remote="131659405520000000" Dst="0" />
+<file name="login.php" server="C:/xampp/htdocs/OldCRM/" local="131642835240000000" remote="131642835240000000" Dst="0" />
+<file name="table.css" server="C:/xampp/htdocs/OldCRM/" local="131636773300000000" remote="131636773300000000" Dst="0" />
+<file name="CaseProgress.php" server="C:/xampp/htdocs/OldCRM/" local="131660032180000000" remote="131660032180000000" Dst="0" />
+<file name="CaseProgressBar.php" server="C:/xampp/htdocs/OldCRM/" local="131660048320000000" remote="131660048320000000" Dst="0" />
+<file name="CaseProgressBar (2).php" server="C:/xampp/htdocs/OldCRM/" local="131660048320000000" remote="131660048320000000" Dst="0" />
+<file name="DeleteSalesMember.php" server="C:/xampp/htdocs/OldCRM/" local="131637631560000000" remote="131637631560000000" Dst="0" />
+<file name="AssignedLeads.php" server="C:/xampp/htdocs/OldCRM/" local="131811414269888151" remote="131811414260000000" Dst="0" />
+<file name="PhpLeadsView.php" server="C:/xampp/htdocs/OldCRM/" local="131818219834699792" remote="131818219830000000" Dst="0" />
+<file name="AssignedLeads (2).php" server="C:/xampp/htdocs/OldCRM/" local="131659409100000000" remote="131659409100000000" Dst="0" />
+<file name="Config.php" server="C:/xampp/htdocs/OldCRM/" local="131775842431780322" remote="131775842430000000" Dst="0" />
+<file name="PhpCaseReport.php" server="C:/xampp/htdocs/OldCRM/" local="131637563580000000" remote="131637563580000000" Dst="0" />
+</dwsync>
